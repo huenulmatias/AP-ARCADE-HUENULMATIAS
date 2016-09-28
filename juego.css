@@ -1,0 +1,16 @@
+#juego {
+	width: 600px;
+	height: 600px;
+	position: relative;
+	background-color: #73afe4;
+	border: solid 5px #73afe4;
+}
+
+.pieza {
+	position: absolute;
+	width: 200px;
+	height: 200px;
+	background-position: 0px 0px;
+	background-size: cover;
+	outline: 1px #73afe4 solid;
+}
